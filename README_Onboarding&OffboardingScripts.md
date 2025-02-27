@@ -1,6 +1,6 @@
 # Onboarding / Offboarding Automation Scripts
 
-CreateSubTasksForChangeJobDuties / Automation rule
+AutoUserCreationOnOnboarding / Automation rule
 
 ![image](https://github.com/user-attachments/assets/1814c9f8-43a4-4e48-8f07-f2d0782184d8)
 
