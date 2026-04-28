@@ -1,5 +1,3 @@
-package com.autodoc.scripts.groovy.pops.autoUserManagement
-
 import com.atlassian.jira.bc.user.UserService
 import com.atlassian.jira.component.ComponentAccessor
 import com.atlassian.jira.event.type.EventDispatchOption
